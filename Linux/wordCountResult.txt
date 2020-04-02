@@ -1,0 +1,4 @@
+  7 ./sample/abc1.txt
+ 11 ./sample/abc2.txt
+ 15 ./sample/abc.txt
+ 33 total
